@@ -43,6 +43,27 @@ Features:
    Run python3 06_hash_create_with_append_and_immediate_write.py
 
 
+My preference scripts:
+
+Generate Hash:
+
+python3 06_hash_create_with_append_and_immediate_write.py
+
+
+Searching hash:
+
+python3 03_bulk_hash_search_store_in_file.py
+
+
+
+
+Leaked password file Rockyou2021 can get from below torrent magnet URL.
+
+magnet:?xt=urn:btih:4920c210b30de7bec53b35266bd3e77ece1a75fe&dn=rockyou2021.txt%20dictionary%20from%20kys234%20on%20RaidForums&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce
+
+
+
+
 Creator:
 Sabareesh VK
 Penetration tester
