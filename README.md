@@ -36,6 +36,12 @@ Features:
 
    Run python3 05_hash_create_with_append.py
 
+6. Create MD5 Hash file from plaintext and append the hash and immediately write so it will save memory:
+   
+   Store the text file in large_password_file.txt
+
+   Run python3 06_hash_create_with_append_and_immediate_write.py
+
 
 Creator:
 Sabareesh VK
